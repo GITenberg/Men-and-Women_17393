@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/146
     wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17393#Men-and-Women
 gutenberg_issued: '2005-12-26'
 gutenberg_type: Text
 identifiers:
